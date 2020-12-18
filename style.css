@@ -145,8 +145,13 @@ body {
         width: 100%;
     }
 
+    .app-dowload {
+        height: 2.5rem;
+    }
+
     .app-dowload img {
         width: 8rem;
+        height: 100%;
     }
 
     .group {
