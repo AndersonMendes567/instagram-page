@@ -3,5 +3,5 @@
 Neste projeto recriamos a interface da página inicial do Instagram.
 Site do projeto: https://andersonmendes567.github.io/instagram-page/
 ### Observações
-* A idéia do projeto é do Bootcamp HTML Developer da digital Inovation one:https://web.digitalinnovation.one/track/html-web-developer
+* A idéia do projeto é do Bootcamp HTML Developer da Digital Inovation one:https://web.digitalinnovation.one/track/html-web-developer
 * Todos os créditos ao Instagram: https://instagram.com
