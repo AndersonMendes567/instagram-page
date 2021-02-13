@@ -1,6 +1,6 @@
 # instagram-page
 ## Recriando a página inicial do Instagram
-Neste projeto recriamos a interface da página inicial do Instagram.
+Neste projeto recriamos a interface da página inicial do Instagram com HTML e CSS puros.
 Site do projeto: https://andersonmendes567.github.io/instagram-page/
 ### Observações
 * A idéia do projeto é do Bootcamp HTML Developer da Digital Inovation one:https://web.digitalinnovation.one/track/html-web-developer
